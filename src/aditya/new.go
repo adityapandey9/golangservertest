@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-
 	r "gopkg.in/gorethink/gorethink.v3"
 )
 
